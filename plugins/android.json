@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.esfera.game"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.esfera.game"
+        },
+        "cordova-plugin-insomnia": {
+            "PACKAGE_NAME": "com.esfera.game"
+        }
+    },
+    "dependent_plugins": {}
+}
